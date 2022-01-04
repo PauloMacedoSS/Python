@@ -2,9 +2,9 @@ This project aims to automate a bonus system for employees for their sales, anal
 
 To run this project it is necessary to carry out the following installations:
 
-1 - Latest version of python.
-2 - Twilio
-3 - Pandas
+1 - Latest version of python.<br>
+2 - Twilio<br>
+3 - Pandas<br>
 4 - Openpyxl
 
 * Twilio is the integration of python with SMS, while pandas and openpyxl are the integration of python with excel.
@@ -25,9 +25,9 @@ twilio will force the necessary data to send the SMS:
 
 Ex:
 
-account_sid = "provided by twilio"
-auth_token = "provided by twilio"
-to="number you registered",
+account_sid = "provided by twilio"<br>
+auth_token = "provided by twilio"<br>
+to="number you registered",<br>
 from_="Number provided by twilio"
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,9 +36,9 @@ Esse projeto tem como intuito automatizar um sistema de bonificação de funcion
 
 Para executar esse projeto é necessario realizar as seguintes instalações:
 
-1 - Ultima versão do python.
-2 - Twilio
-3 - Pandas
+1 - Ultima versão do python.<br>
+2 - Twilio<br>
+3 - Pandas<br>
 4 - Openpyxl
 
 * O twilio é a integração do python com o SMS, já o pandas e openpyxl são a integração do python com o excel.
@@ -59,7 +59,7 @@ O twilio vai forcecer os dados ncessarios para o envio do SMS:
 
 Ex:
 
-account_sid = "fornecido pelo twilio"
-auth_token  = "fornecido pelo twilio"
-to="número que você cadastrou", 
+account_sid = "fornecido pelo twilio"<br>
+auth_token  = "fornecido pelo twilio"<br>
+to="número que você cadastrou", <br>
 from_="Número fornecido pelo twilio"
