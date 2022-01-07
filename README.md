@@ -43,7 +43,7 @@ Para executar esse projeto é necessario realizar as seguintes instalações:
 
 * O twilio é a integração do python com o SMS, já o pandas e openpyxl são a integração do python com o excel.
 
-* O twilio, padas e openpyxl podem ser instalados atraves do terminal do pycharm com os seguintes comandos:
+* O twilio, pandas e openpyxl podem ser instalados atraves do terminal do pycharm com os seguintes comandos:
 
 pip install twilio
 
